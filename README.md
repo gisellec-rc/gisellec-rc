@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Giselle Carvalho
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently attending a Full stack bootcamp
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me by email giselle-rc@hotmail.com
 
